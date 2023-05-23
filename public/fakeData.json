@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "1",
+    "picture": "https://example.com/sports_car.jpg",
+    "toyName": " Car",
+    "subcategory": "Sports Car",
+    "price": 19.99,
+    "rating": 4.5,
+    "quantity": 10,
+    "description": "This sports car toy is designed for speed and agility. It features sleek lines, a vibrant red color, and realistic details. Perfect for racing enthusiasts!"
+  },
+  {
+    "_id": "2",
+    "picture": "https://example.com/truck.jpg",
+    "toyName": "Truck",
+    "subcategory": "Max Truck",
+    "price": 24.99,
+    "rating": 4.2,
+    "quantity": 8,
+    "description": "The truck toy is built for heavy-duty fun. It comes with a detachable trailer and movable parts. Kids can transport cargo and imagine exciting adventures on the road!"
+  },
+  {
+    "_id": "3",
+    "picture": "https://example.com/regular_car.jpg",
+    "toyName": " Car",
+    "subcategory": "Regular Car",
+    "price": 14.99,
+    "rating": 4.0,
+    "quantity": 12,
+    "description": "The regular car toy is a classic choice for young car enthusiasts. With its sleek design and bright colors, it offers hours of imaginative play. Buckle up and let the fun begin!"
+  },
+  {
+    "_id": "4",
+    "picture": "https://example.com/mini_fire_truck.jpg",
+    "toyName": "Truck",
+    "subcategory": "Mini Fire Truck",
+    "price": 12.99,
+    "rating": 4.7,
+    "quantity": 6,
+    "description": "This mini fire truck toy is perfect for little heroes. It comes with a ladder, flashing lights, and realistic sounds. Let your child's imagination soar as they save the day!"
+  }
+]
